@@ -7,11 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - file: about.qmd
+        text: "About Me"
+        
 format:
   html:
-    theme: cosmo
+    theme: lux
     toc: true
 
 editor: visual

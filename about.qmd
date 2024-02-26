@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+#### Shuwen Zhang
 
-```{r}
-1 + 1
-```
+![](Image/IMG_6002 2.jpg){fig-align="right"}
+
+I am currently a Ph.D. candidate in Public Administration and a member of the Network and Governance Lab. My research focuses on collaborative governance, regional intergovernmental organizations, and social network analysis. I have been involved in a variety of research projects across public administration, public policy, and public health. I have also committed to teaching, offering courses on programming languages and data analysis for public policy. I have been leading and involved in a variety of research projects across public administration, public policy, and public health.

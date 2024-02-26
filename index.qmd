@@ -1,11 +1,5 @@
 ---
-title: "Website_test"
+title: "Home"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+#### Hi, this is Shuwen's personal website!
