@@ -2,4 +2,8 @@
 title: "  "
 ---
 
-#### Hi, this is Shuwen's personal website!
+#### Highlights
+
+![](Image/slgb_56_1.largecover.png){fig-align="center" width="300"}
+
+My research about how power difference affects the use of monitoring mechanisms in ILAs is published in State and Local Government Review! \[[Check it out here!](https://doi.org/10.1177/0160323X231208958)\]

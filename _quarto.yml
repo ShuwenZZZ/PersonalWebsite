@@ -9,7 +9,9 @@ website:
         text: Home
       - file: about.qmd
         text: "About Me"
-        
+      - file: Research.qmd
+        text: "Research Project"
+
 format:
   html:
     theme: lux
