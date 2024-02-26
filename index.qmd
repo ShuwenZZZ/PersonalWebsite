@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: ""
 ---
 
 #### Hi, this is Shuwen's personal website!
