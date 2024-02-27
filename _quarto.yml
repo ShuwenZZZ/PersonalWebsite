@@ -24,6 +24,7 @@ format:
     theme: lux
     toc: true
     toc-expand: 3
+    fontsize: 1em
     css: styles.css
 
 editor: visual
