@@ -12,7 +12,7 @@ RIGO is a theoretical term developed by [**Miller and Nelles (2018)**](https://d
 
 #### Related projects in progress:
 
-1.  Can Regional Intergovernmental Organizations (RIGOs) foster local public service collaborations? Evidence from a longitudinal causal analysis
+1.  Can Regional Intergovernmental Organizations foster local public service collaborations? Evidence from a longitudinal causal analysis
 2.  The Role of the Nonprofit Sector among Regional Intergovernmental Organizations: A Mixed Method Study.
 3.  How do the decision-making structures of regional intergovernmental organizations affect regional policy decisions?
 4.  Unpacking the institutional complexity of regional intergovernmental organizations in the Chicago metropolitan area.
