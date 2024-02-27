@@ -25,7 +25,9 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: 
+     light: lux
+     dark: darkly
     toc: true
     toc-expand: 3
     fontsize: 1em
