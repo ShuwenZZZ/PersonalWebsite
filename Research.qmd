@@ -2,4 +2,54 @@
 title: " "
 ---
 
+My research primarily focuses on the following topics: regional intergovernmental organizations, local public service networks, and social network analysis. Below are brief introductions to these topics and the projects I am currently involved in:
+
 ## Regional Intergovernmental Organizations (RIGOs)
+
+The fragmented and decentralized local system in the US, presents significant challenges for local governments addressing public problems that across local boundaries or beyond the capabilities of individual governments (Savitch & Vogel, 2000; Norris, 2001; Bryan & Wolf, 2010). To overcome these challenges, local governments have developed a variety of approaches to enable collective action such as interlocal agreements, informal policy networks, regional institutions, and special districts (Hamilton et al., 2004; Bollens, 1997; Paytas, 2002; Foster & Barnes, 2011; Kim et al., 2020). **Regional Intergovernmental Organizations (RIGOs)** have emerged as one of the major approaches for fostering interlocal collaboration, improving the efficiency of regional public service provision and strategically managing federal and state resources (Miller & Nelles, 2020).
+
+RIGO is a theoretical term developed by [**Miller and Nelles (2018)**](https://doi.org/10.4324/9781351242653) referring to the cross-boundary organizations made up of local governments designed to coordinate decisions in multiple policy areas and to manage the collective interests of its members \[[**learn more about RIGOs**](https://www.rigos.pitt.edu)\].
+
+#### Related projects in progress:
+
+1.  Can Regional Intergovernmental Organizations (RIGOs) foster local public service collaborations? Evidence from a longitudinal causal analysis
+2.  The Role of the Nonprofit Sector among Regional Intergovernmental Organizations: A Mixed Method Study.
+3.  How do the decision-making structures of regional intergovernmental organizations affect regional policy decisions?
+4.  Unpacking the institutional complexity of regional intergovernmental organizations in the Chicago metropolitan area.
+5.  Organizational Identity of Regional Inter-Governmental Organizations: An Empirical Investigation Using Q-Methodology.
+
+## Local Public Service Networks
+
+[**The Network and Governance Lab (NGL)**](https://cuppa.uic.edu/net-gov-lab/) at UIC is involved in a long-term project examining the creation, structure, composition, and performance of networks created by local governments to produce public services and coordinate policy actions. These projects examine both human networks that function within and across public organizations as well as interorganizational networks containing government, private and nonprofit actors
+
+An important element of this project is the creation of the UIC-NGL-IOWA intergovernmental agreements networks dataset. This dataset was built using data on 28E agreements filed with the Iowa Secretary of State after 1993 and captures agreements covering 33 service areas. NGL updates the dataset annually to add new agreements and document changes in exiting agreements. A publicly available version of the data will coming soon.  For more information click [here](https://cuppa.uic.edu/net-gov-lab/ngl-projects-data/uic-ngl-iowa-intergovernmental-agreements-networks-dataset/).
+
+#### Related projects in progress:
+
+1.  Exploring Accountability Choices in Service Contracts for Collaborative Public Safety Services Provision \[finished\]. Published in State and Local Government Review \[[read the paper](https://doi.org/10.1177/0160323X231208958)\]
+
+2.  Relational Contracting thru Selection-Based Accountability: Collaboration History, Shared Constituencies, and Justified Trust in Public Safety Contracts.
+
+3.  Mitigating Risks in Interlocal Collaboration Agreements: An Empirical Examination of Network Structure and Contract Design.
+
+4.  Measuring Tie Strength in Local Public Service Networks.
+
+5.  Does Collaborative Capacity Improve Nonprofit Performance? Evidence from a Longitudinal Study.
+
+## Social Network Analysis
+
+**Social Network Analysis (SNA)** is a dynamic method for examining social structures by employing the principles of networks and graph theory. It elucidates the intricate patterns of interaction within networked systems, distinguishing between the entities (nodes) such as individual actors, people, or elements, and the connections (ties, edges, or links) that bind them.
+
+Key applications of SNA span various domains, my research focuses on the following context:
+
+-   Personal Relationships: studying the networks of friendships, acquaintances, and professional contacts.
+
+-   Collaborative Networks: understanding cooperative interactions in various settings.
+
+These networks are typically visualized through sociograms, where nodes are depicted as points and ties as lines. Such visual representations are invaluable for qualitatively analyzing networks, allowing variations in node and edge appearances to highlight relevant attributes, thereby offering deeper insights into the structure and dynamics of the network.
+
+#### Related projects in progress:
+
+1.  Exploring the Relationship Between Substance Use and the Development of Friendships among American Indian Adolescents: Using the Exponential Random Graph Model (Project supported by National Institutes of Health: 5R21DA053789).
+
+2.  Social Networks in American Indian Youth; A cross-sectional exploratory analysis of school-based, family-based, and other peers among 9th and 10th graders on one large plains reservation. (Project supported by National Institutes of Health: 5R21DA053789)

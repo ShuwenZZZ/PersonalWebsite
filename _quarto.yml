@@ -27,7 +27,7 @@ format:
   html:
     theme: 
      light: lux
-     dark: darkly
+     dark: cyborg
     toc: true
     toc-expand: 3
     fontsize: 1em
