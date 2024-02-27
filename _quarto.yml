@@ -11,6 +11,10 @@ website:
         text: "About Me"
       - file: Research.qmd
         text: "Research Project"
+      - file: beyondresearch.qmd
+        text: "beyond research"
+      - file: Contact.qmd
+        text: "Contact Me"
     tools:
       - icon: twitter
         href: https://twitter.com/ShuwenZhang11
