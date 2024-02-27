@@ -11,11 +11,21 @@ website:
         text: "About Me"
       - file: Research.qmd
         text: "Research Project"
+    tools:
+      - icon: twitter
+        href: https://twitter.com/ShuwenZhang11
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shuwen-zhang-a55700201/
+      - icon: github
+        href: https://github.com/ShuwenZZZ
 
 format:
   html:
     theme: lux
     toc: true
+    toc-expand: 3
+    fontsize: 1.3em
+    css: styles.css
 
 editor: visual
 
