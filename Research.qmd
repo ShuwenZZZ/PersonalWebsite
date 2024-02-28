@@ -40,9 +40,9 @@ An important element of this project is the creation of the UIC-NGL-IOWA intergo
 
 ### Chicago Public Health PONs
 
-As of March 2024, researchers at UIC's Networks and Governance Lab have identified over 65 community health and wellness collaborative groups within Chicago and Cook County. These groups, involving more than 800 public and private sector organizations, play a pivotal role in addressing the health and wellness needs of our diverse communities surrounding UIC. Notable among these are the UIC Healthy Start Community Action Network, the Partnership for Healthy Chicago, and the Smart Chicago Collaborative Health Centers, collectively referred to as Purpose-Oriented Networks (PONs). For more information click [here](https://kanetgeek.github.io/ChiHealthPONsWeb/).
+As of March 2024, researchers at UIC's Networks and Governance Lab have identified over 65 community health and wellness collaborative groups within Chicago and Cook County. These groups, involving more than 800 public and private sector organizations, play a pivotal role in addressing the health and wellness needs of our diverse communities surrounding UIC. For more information click [here](https://kanetgeek.github.io/ChiHealthPONsWeb/).
 
-PONs represent a critical mechanism for tackling complex public health issues through collaborative interorganizational efforts. Despite the wealth of research across various disciplines on interorganizational networks, the influence of an external environment on a network's long-term sustainability and effectiveness remains underexplored (Nowell & Albrecht, 2023).
+These collaborative groups are Purpose-Oriented Networks (PONs), representing a critical mechanism for tackling complex public health issues through collaborative interorganizational efforts. Despite the wealth of research across various disciplines on interorganizational networks, the influence of an external environment on a network's long-term sustainability and effectiveness remains underexplored (Nowell & Albrecht, 2023).
 
 #### Related projects in progress:
 
