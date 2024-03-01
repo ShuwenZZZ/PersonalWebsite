@@ -6,7 +6,7 @@ My research primarily focuses on the following topics: regional intergovernmenta
 
 ## Regional Intergovernmental Organizations (RIGOs)
 
-![](Image/IowaCOGs.jpg){width="500"}
+![](Image/IowaCOGs.jpg){fig-align="center" width="500"}
 
 The fragmented and decentralized local system in the US, presents significant challenges for local governments addressing public problems that across local boundaries or beyond the capabilities of individual governments (Savitch & Vogel, 2000; Norris, 2001; Bryan & Wolf, 2010). To overcome these challenges, local governments have developed a variety of approaches to enable collective action such as interlocal agreements, informal policy networks, regional institutions, and special districts (Hamilton et al., 2004; Bollens, 1997; Paytas, 2002; Foster & Barnes, 2011; Kim et al., 2020). **Regional Intergovernmental Organizations (RIGOs)** have emerged as one of the major approaches for fostering interlocal collaboration, improving the efficiency of regional public service provision and strategically managing federal and state resources (Miller & Nelles, 2020).
 
@@ -28,6 +28,8 @@ RIGO is a theoretical term developed by [**Miller and Nelles (2018)**](https://d
 
 An important element of this project is the creation of the UIC-NGL-IOWA intergovernmental agreements networks dataset. This dataset was built using data on 28E agreements filed with the Iowa Secretary of State after 1993 and captures agreements covering 33 service areas. NGL updates the dataset annually to add new agreements and document changes in exiting agreements. A publicly available version of the data will coming soon.  For more information click [here](https://cuppa.uic.edu/net-gov-lab/ngl-projects-data/uic-ngl-iowa-intergovernmental-agreements-networks-dataset/).
 
+![](Image/Monitoring.jpg){fig-align="center" width="700"}
+
 #### Related projects in progress:
 
 1.  Exploring Accountability Choices in Service Contracts for Collaborative Public Safety Services Provision \[finished\]. Published in State and Local Government Review \[[read the paper](https://doi.org/10.1177/0160323X231208958)\]
@@ -45,6 +47,8 @@ An important element of this project is the creation of the UIC-NGL-IOWA intergo
 As of March 2024, researchers at UIC's Networks and Governance Lab have identified over 65 community health and wellness collaborative groups within Chicago and Cook County. These groups, involving more than 800 public and private sector organizations, play a pivotal role in addressing the health and wellness needs of our diverse communities surrounding UIC. For more information click [here](https://kanetgeek.github.io/ChiHealthPONsWeb/).
 
 These collaborative groups are Purpose-Oriented Networks (PONs), representing a critical mechanism for tackling complex public health issues through collaborative interorganizational efforts. Despite the wealth of research across various disciplines on interorganizational networks, the influence of an external environment on a network's long-term sustainability and effectiveness remains underexplored (Nowell & Albrecht, 2023).
+
+![](Image/Chicago Health PONs orgs only.jpeg){fig-align="center" width="700"}
 
 #### Related projects in progress:
 
