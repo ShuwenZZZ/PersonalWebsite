@@ -4,6 +4,6 @@ title: "  "
 
 ### Meet Dumpling, the Research Whiz!
 
-![](Image/IMG_5546.JPG){width="500"}
+![](Image/IMG_5546.JPG){fig-align="center" width="400"}
 
 Behold Dumpling: part cat, part research assistant, all fluff. He's huge, he's friendly, and he's probably way smarter than me. Research just got a lot more purr-sonal!
