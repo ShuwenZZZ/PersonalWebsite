@@ -6,16 +6,18 @@ title: "  "
 
 ### <i class="bi bi-megaphone"></i> New Publication
 
-::: columns
-::: {.column width="60%"}
 ![](Image/slgb_56_1.largecover.png){fig-align="center" width="200"}
-:::
 
-::: {.column width="40%"}
 Our research about how power difference affects the use of monitoring mechanisms in ILAs is published in State and Local Government Review! \[[Check it out here!](https://doi.org/10.1177/0160323X231208958)\]
-:::
-:::
 
 ### <i class="bi bi-megaphone"></i> Donald C. Stone Award for Best Student Paper
 
+![](Image/788AFB6E-152E-44B4-932D-140DDE45E05B_1_105_c.jpeg){fig-align="center" width="200"}
+
 My research titled: “How Does Cities’ Engagement Affect the Function of Regional Intergovernmental Organizations (RIGOs) in Metropolitan Areas?” has won the Donald C. Stone Award for Best Student Paper 2023! \[[More...](https://siam-aspa.net/2023/04/26/annual-siam-awards-at-aspa-2023/)\]
+
+### <i class="bi bi-megaphone"></i> Dissertation Proposal Defense
+
+![](Image/Screenshot 2024-03-01 at 10.50.41 AM.png){fig-align="center" width="400"}
+
+Exciting news! I nailed my dissertation proposal defense and am now officially on my way to becoming a Ph.D.!
