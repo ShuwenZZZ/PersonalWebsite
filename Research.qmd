@@ -4,6 +4,8 @@ title: " "
 
 My research primarily focuses on the following topics: regional intergovernmental organizations, local public service networks, and social network analysis. Below are brief introductions to these topics and the projects I am currently involved in:
 
+\
+
 ## Regional Intergovernmental Organizations (RIGOs)
 
 ![RIGOs in Iowa and their member local governments](Image/IowaCOGs.jpg){fig-align="center" width="400"}
@@ -19,6 +21,8 @@ RIGO is a theoretical term developed by [**Miller and Nelles (2018)**](https://d
 3.  How do the decision-making structures of regional intergovernmental organizations affect regional policy decisions?
 4.  Unpacking the institutional complexity of regional intergovernmental organizations in the Chicago metropolitan area.
 5.  Organizational Identity of Regional Inter-Governmental Organizations: An Empirical Investigation Using Q-Methodology.
+
+\
 
 ## Local Public Service Networks
 
@@ -53,6 +57,8 @@ These collaborative groups are Purpose-Oriented Networks (PONs), representing a 
 #### Related projects in progress:
 
 1.  What are the characteristics differentiating organizations bridging public health networks from those that are not?
+
+\
 
 ## Social Network Analysis
 
