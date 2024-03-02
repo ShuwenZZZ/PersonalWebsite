@@ -48,7 +48,7 @@ As of March 2024, researchers at UIC's Networks and Governance Lab have identifi
 
 These collaborative groups are Purpose-Oriented Networks (PONs), representing a critical mechanism for tackling complex public health issues through collaborative interorganizational efforts. Despite the wealth of research across various disciplines on interorganizational networks, the influence of an external environment on a network's long-term sustainability and effectiveness remains underexplored (Nowell & Albrecht, 2023).
 
-![Chicago Public Health PONs](Image/Chicago Health PONs orgs only.jpeg){fig-align="center" width="700"}
+![Chicago Public Health PONs](Image/Chicago%20Health%20PONs%20orgs%20only.jpeg){fig-align="center" width="700"}
 
 #### Related projects in progress:
 
