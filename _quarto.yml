@@ -10,7 +10,7 @@ website:
       - file: about.qmd
         text: "About Me"
       - file: Research.qmd
-        text: "Research Project"
+        text: "Research"
       - file: beyondresearch.qmd
         text: "beyond research"
       - file: Contact.qmd
