@@ -2,6 +2,32 @@
 title: "  "
 ---
 
+::: columns
+::: {.column width="40%"}
+![](ProfilePhoto.JPG){width="225"}
+:::
+
+::: {.column width="60%"}
+#### **Shuwen Zhang** 
+
+<div>
+
+Ph.D Candidate in Public Administration
+
+Networks & Governance Lab
+
+Department of Public Policy, Management, and Analytics
+
+University of Illinois Chicago
+
+szhan47\@uic.edu
+
+</div>
+:::
+:::
+
+\
+
 ## Highlights
 
 ### <i class="bi bi-megaphone"></i> New Publication
