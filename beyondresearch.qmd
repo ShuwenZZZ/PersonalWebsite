@@ -46,7 +46,7 @@ Behold Dumpling: part cat, part research assistant, all fluff. He's huge, he's f
 
 ![New Orleans. US](Travel%20Photo/New%20Orleans9.7.2019.jpeg){fig-align="center" width="400"} 
 
-![Washington DC. uS](Travel%20Photo/WashingtonDC10.18.2019.jpeg){fig-align="center" width="400"} 
+![Washington DC. US](Travel%20Photo/WashingtonDC10.18.2019.jpeg){fig-align="center" width="400"} 
 
 ![New York. US](Travel%20Photo/NewYork11.23.2019.jpeg){fig-align="center" width="400"} 
 
@@ -54,4 +54,4 @@ Behold Dumpling: part cat, part research assistant, all fluff. He's huge, he's f
 
 ![Chicago. US](Travel%20Photo/Chicago7.27.2020.jpeg){fig-align="center" width="400"} 
 
-![Orlando. UK](Travel%20Photo/Orlando11.20.2023.jpeg){fig-align="center" width="400"}
+![Orlando. US](Travel%20Photo/Orlando11.20.2023.jpeg){fig-align="center" width="400"}
