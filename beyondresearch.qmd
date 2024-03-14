@@ -18,40 +18,40 @@ Behold Dumpling: part cat, part research assistant, all fluff. He's huge, he's f
 
 ![Oxford.UK](Travel%20Photo/Oxford9.17.2015.jpeg){fig-align="center" width="400"}
 
-![London.UK](Travel%20Photo/London11.19.2015.jpeg){fig-align="center" width="400"} 
+![London.UK](Travel%20Photo/London11.19.2015.jpeg){fig-align="center" width="400"}
 
-![Cologne. Germany](Travel%20Photo/Cologne12.23.2015.jpeg){fig-align="center" width="400"} 
+![Cologne. Germany](Travel%20Photo/Cologne12.23.2015.jpeg){fig-align="center" width="400"}
 
 ![Trier. Germany](Travel%20Photo/Trier%2012.23.2015.jpeg){fig-align="center" width="400"}
 
-![Luxembourg](Travel%20Photo/Luxembourg12.23.2015.jpeg){fig-align="center" width="400"} 
+![Luxembourg](Travel%20Photo/Luxembourg12.23.2015.jpeg){fig-align="center" width="400"}
 
-![Paris. France](Travel%20Photo/Paris12.27.2015.jpeg){fig-align="center" width="400"} 
+![Paris. France](Travel%20Photo/Paris12.27.2015.jpeg){fig-align="center" width="400"}
 
-![Nice. France](Travel%20Photo/Nice6.13.2016.jpeg){fig-align="center" width="400"} 
+![Nice. France](Travel%20Photo/Nice6.13.2016.jpeg){fig-align="center" width="400"}
 
 ![Marseilles. France](Travel%20Photo/Marseilles6.15.2015.jpeg){fig-align="center" width="400"}
 
-![Vatican](Travel%20Photo/Vatican6.18.2015.jpeg){fig-align="center" width="400"} 
+![Vatican](Travel%20Photo/Vatican6.18.2015.jpeg){fig-align="center" width="400"}
 
-![Venice, Italy](Travel%20Photo/Venice6.21.2016.jpeg){fig-align="center" width="400"} 
+![Venice, Italy](Travel%20Photo/Venice6.21.2016.jpeg){fig-align="center" width="400"}
 
-![Athens. Greece](Travel%20Photo/Athens6.23.2015.jpeg){fig-align="center" width="400"} 
+![Athens. Greece](Travel%20Photo/Athens6.23.2015.jpeg){fig-align="center" width="400"}
 
-![Santorini. Greece](Travel%20Photo/Santorini6.24.2016.jpeg){fig-align="center" width="400"} 
+![Santorini. Greece](Travel%20Photo/Santorini6.24.2016.jpeg){fig-align="center" width="400"}
 
-![Barcelona. Spain](Travel%20Photo/Barcelona7.1.2015.jpeg){fig-align="center" width="400"} 
+![Barcelona. Spain](Travel%20Photo/Barcelona7.1.2015.jpeg){fig-align="center" width="400"}
 
-![Pittsburgh. US](Travel%20Photo/Pittsburgh8.14.2018.jpeg){fig-align="center" width="400"} 
+![Pittsburgh. US](Travel%20Photo/Pittsburgh8.14.2018.jpeg){fig-align="center" width="400"}
 
-![New Orleans. US](Travel%20Photo/New%20Orleans9.7.2019.jpeg){fig-align="center" width="400"} 
+![New Orleans. US](Travel%20Photo/New%20Orleans9.7.2019.jpeg){fig-align="center" width="400"}
 
-![Washington DC. US](Travel%20Photo/WashingtonDC10.18.2019.jpeg){fig-align="center" width="400"} 
+![Washington DC. US](Travel%20Photo/WashingtonDC10.18.2019.jpeg){fig-align="center" width="400"}
 
-![New York. US](Travel%20Photo/NewYork11.23.2019.jpeg){fig-align="center" width="400"} 
+![New York. US](Travel%20Photo/NewYork11.23.2019.jpeg){fig-align="center" width="400"}
 
-![Puerto Rico. US](Travel%20Photo/Puerto%20Rico1.10.2020.jpeg){fig-align="center" width="400"} 
+![Puerto Rico. US](Travel%20Photo/Puerto%20Rico1.10.2020.jpeg){fig-align="center" width="400"}
 
-![Chicago. US](Travel%20Photo/Chicago7.27.2020.jpeg){fig-align="center" width="400"} 
+![Chicago. US](Travel%20Photo/Chicago7.27.2020.jpeg){fig-align="center" width="400"}
 
 ![Orlando. US](Travel%20Photo/Orlando11.20.2023.jpeg){fig-align="center" width="400"}
