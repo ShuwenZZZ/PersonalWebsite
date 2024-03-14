@@ -1,0 +1,37 @@
+---
+title: "  "
+---
+
+## Shuwen Zhang
+
+![](Image/IMG_6002%202.jpg){fig-align="center" width="500"}
+
+I am a Ph.D. candidate in the Department of Public Administration at the University of Illinois Chicago, specializing in collaborative governance, regional intergovernmental organizations, and social network analysis. My research delves into the intricacies of how governments work together to solve complex challenges that transcend jurisdictional boundaries. Specifically, I explore the dynamics within decentralized local systems and their interconnections, examining the ways in which local governments leverage various institutional frameworks to address issues that extend beyond their immediate administrative borders.
+
+[![](Image/NGL_Logo.jpg){width="500"}](https://cuppa.uic.edu/net-gov-lab/)
+
+I am also a member of the Network and Governance Lab with a bunch of awesome researchers diving into all sorts of cool stuff! Check out our lab's [website](https://cuppa.uic.edu/net-gov-lab/) to see the amazing research we're up to!
+
+\
+
+## Peer-reviewed Articles
+
+[**Zhang, S**., & Zehra, M.-E.-. (2024). Exploring Accountability Choices in Service Contracts for Collaborative Public](https://journals.sagepub.com/doi/10.1177/0160323X231208958?icid=int.sj-abstract.citing-articles.84)[Safety](https://doi.org/10.1177/0160323X231208958)[Services Provision. State and Local Government Review, 56(1), 6-25. https://doi.org/10.1177/0160323X231208958](https://journals.sagepub.com/doi/10.1177/0160323X231208958?icid=int.sj-abstract.citing-articles.84)
+
+**Zhang, S**.; Li, J. & Carr, J. Relational Contracting thru Selection-Based Accountability: Collaboration History, Shared Constituencies, and Justified Trust in Public Safety Contracts. Under Review at *Public Performance & Management Review*
+
+\
+
+## Teaching
+
+**Instructor** - PPOL205: Programming and Data Analysis for public policy II. (Jan. 2023-May. 2023; Jan. 2024- Present).
+
+\
+
+## Awards
+
+**Donald C. Stone Award for Best Student Paper** from the Section on Intergovernmental Administration and Management at American Society for Public Administration Annual Conference (Apr. 2023)
+
+## CV
+
+![](File/Shuwen%20Zhang%20CV%202024.pdf){width="700" height="800"}
