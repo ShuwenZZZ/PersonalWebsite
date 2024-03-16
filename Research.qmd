@@ -74,6 +74,6 @@ These networks are typically visualized through sociograms, where nodes are depi
 
 #### Related projects in progress:
 
-1.  Exploring the Relationship Between Substance Use and the Development of Friendships among American Indian Adolescents: Using the Exponential Random Graph Model (Project supported by National Institutes of Health: 5R21DA053789).
+1.  Exploring the Relationship Between Substance Use and the Development of Friendships among American Indian Adolescents: Using the Exponential Random Graph Model (Project supported by National Institutes of Health: R01DA060108).
 
-2.  Social Networks in American Indian Youth; A cross-sectional exploratory analysis of school-based, family-based, and other peers among 9th and 10th graders on one large plains reservation. (Project supported by National Institutes of Health: 5R21DA053789)
+2.  Social Networks in American Indian Youth; A cross-sectional exploratory analysis of school-based, family-based, and other peers among 9th and 10th graders on one large plains reservation. (Project supported by National Institutes of Health: R01DA060108)
