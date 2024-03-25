@@ -34,4 +34,4 @@ I am also a member of the Network and Governance Lab with a bunch of awesome res
 
 ## CV
 
-![](File/Shuwen Zhang CV 2024.pdf){fig-align="center" width="700"}
+![](File/Shuwen%20Zhang%20CV%202024.pdf){fig-align="center" width="500" height="900"}
