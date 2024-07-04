@@ -6,7 +6,7 @@ title: "  "
 
 ![](Image/ProfilePhoto2.jpg){fig-align="center" width="400"}
 
-I am a Ph.D. candidate in the Department of Public Administration at the University of Illinois Chicago, specializing in collaborative governance, regional intergovernmental organizations, and social network analysis. My research delves into the intricacies of how governments work together to solve complex challenges that transcend jurisdictional boundaries. Specifically, I explore the dynamics within decentralized local systems and their interconnections, examining the ways in which local governments leverage various institutional frameworks to address issues that extend beyond their immediate administrative borders.
+I am a Ph.D. candidate in the Department of Public Policy, Management and Analytics at the University of Illinois Chicago, specializing in collaborative governance, regional intergovernmental organizations, and social network analysis. My research delves into the intricacies of how governments work together to solve complex challenges that transcend jurisdictional boundaries. Specifically, I explore the dynamics within decentralized local systems and their interconnections, examining the ways in which local governments leverage various institutional frameworks to address issues that extend beyond their immediate administrative borders.
 
 [![](Image/NGL_Logo.jpg){width="500"}](https://cuppa.uic.edu/net-gov-lab/)
 
