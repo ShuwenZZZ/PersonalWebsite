@@ -6,10 +6,14 @@ title: "  "
 
 ::: columns
 ::: {.column width="40%"}
-![](Image/profile photo.jpeg){width="450"}
+![](Image/profile photo.jpeg){width="400"}
 :::
 
-::: {.column width="60%"}
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="55%"}
 #### **Shuwen Zhang**
 
 <div>
