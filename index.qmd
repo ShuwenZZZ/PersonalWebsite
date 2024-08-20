@@ -6,7 +6,7 @@ title: "  "
 
 ::: columns
 ::: {.column width="40%"}
-![](Image/ProfilePhoto2.jpg){width="265"}
+![](Image/profile photo.jpeg){width="450"}
 :::
 
 ::: {.column width="60%"}
