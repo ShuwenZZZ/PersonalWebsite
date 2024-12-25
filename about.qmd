@@ -4,7 +4,7 @@ title: "  "
 
 ## Shuwen Zhang
 
-![](Image/profile photo.jpeg){width="400"}
+![](Image/profile%20photo.jpeg){width="400"}
 
 I am a Ph.D. candidate in the Department of Public Policy, Management and Analytics at the University of Illinois Chicago, specializing in collaborative governance, regional intergovernmental organizations, and social network analysis. My research delves into the intricacies of how governments work together to solve complex challenges that transcend jurisdictional boundaries. Specifically, I explore the dynamics within decentralized local systems and their interconnections, examining the ways in which local governments leverage various institutional frameworks to address issues that extend beyond their immediate administrative borders.
 
@@ -18,23 +18,27 @@ I am also a member of the Network and Governance Lab with a bunch of awesome res
 
 [**Zhang, S**., & Zehra, M.-E.-. (2024). Exploring Accountability Choices in Service Contracts for Collaborative Public](https://journals.sagepub.com/doi/10.1177/0160323X231208958?icid=int.sj-abstract.citing-articles.84)[Safety](https://doi.org/10.1177/0160323X231208958)[Services Provision. State and Local Government Review, 56(1), 6-25. https://doi.org/10.1177/0160323X231208958](https://journals.sagepub.com/doi/10.1177/0160323X231208958?icid=int.sj-abstract.citing-articles.84)
 
+Gutierrez-Meave, R.; **Zhang, S**.; Carr, J. & Siciliano, M. (Forthcoming). Mitigating Risks in Interlocal Collaboration Agreements: An Empirical Examination of Network Structure and Contract Design. *Public Administration*.
+
 ## **Manuscript Under Review**
 
-**Zhang, S**.; Li, J. & Carr, J. Relational Contracting thru Selection-Based Accountability: Collaboration History, Shared Constituencies, and Justified Trust in Public Safety Contracts.
+**Zhang, S**.; Gutierrez-Meave, R.; Li, J. & Carr, J. Relational Contracting thru Selection-Based Accountability: Collaboration History, Shared Constituencies, and Justified Trust in Public Safety Contracts.
 
 **Zhang, S**.; Siciliano, M.; Ivanich, J. & Schultz, K. Exploring the Relationship Between Substance Use and the Development of Friendships among American Indian Adolescents: Using the Exponential Random Graph Model (Project supported by National Institutes of Health: 5R21DA053789; PI: Jerreed Ivanich).
 
-Gutierrez-Meave, R.; **Zhang, S**.; Carr, J. & Siciliano, M. Mitigating Risks in Interlocal Collaboration Agreements: An Empirical Examination of Network Structure and Contract Design.
+**Zhang, S**.; Lal, Y. & Albrecht, K. Unveiling the Bridge Builders: Exploring Distinctive Traits of Bridging Nonprofits in Public Health Network Domains
+
+**Zhang, S**. Substance or Symbolism: How Effective Are Regional Intergovernmental Organizations (RIGOs) in Promoting Collaboration? An Augmented Synthetic Control Approach.
 
 Ivanich, J.; Schultz, K.; Siciliano, M. & **Zhang, S**. Social Networks in American Indian Youth; A cross-sectional exploratory analysis of school-based, family-based, and other peers among 9th and 10th graders on one large plains reservation. (Project supported by National Institutes of Health: 5R21DA053789; PI: Jerreed Ivanich).
 
 ## **Research papers in development**
 
+**Zhang, S**.; Lal, Y. & Albrecht, K. Collaboration vs. Competition: Decoding the Ecology of Games in Public Health Collaboration and Competition
+
 **Zhang, S**. & Fayemiro, O. The Role of the Nonprofit Sector among Regional Intergovernmental Organizations: A Mixed Method Study.
 
 **Zhang, S**. How do the decision-making structures of regional intergovernmental organizations affect regional policy decisions?
-
-**Zhang, S**. Can regional governance organizations foster local public service collaborations? Evidence from a longitudinal study.
 
 **Zhang, S**. Unpacking the institutional complexity of public health regional governance organizations in the Chicago metropolitan area.
 
@@ -44,9 +48,19 @@ Li, J.; **Zhang, S**. & LeRoux, K. Does Collaborative Capacity Improve Nonprofit
 
 ## Teaching
 
-**Instructor** - PPOL205: Programming and Data Analysis for public policy II. (Jan. 2023-May. 2023; Jan. 2024- May. 2024).
+**Instructor** - PPOL205: Programming and Data Analysis for public policy II. (Jan. 2023-May. 2023; Jan. 2024- May. 2024). Course design, lectures, supported students’ research projects and graded assignments/exams.
 
-**Lab** **Instructor -** PA402: Principles of Data Analysis - MPA Required Course (Aug. 2021-Dec. 2021; Aug. 2022-Dec. 2022; Aug. 2023-Dec. 2023)
+**Lab Instructor and Teaching Assistant** - PA402: Principles of Data Analysis. (MPA core course; Aug. 2020-Dec. 2020, Aug. 2022-Dec. 2022; Aug. 2022-Dec. 2022; Aug. 2023-Dec. 2023). Taught lab sessions and graded assignments.
+
+**Lab Instructor and Teaching Assistant** - PA 541: Advanced Data Analysis I. (Ph.D. core course; Jan. 2021-May. 2021). Taught lab sessions and graded assignments.
+
+**Teaching Assistant** - PA594: Social Network Analysis. (Aug. 2024-Dec. 2024). Supported class discussions, helping student with R programming language, advising student research projects and graded assignments.
+
+**Teaching Assistant** - PA528: Program Evaluation. (Aug. 2024-Dec. 2024). Supported class discussions, helping student with R programming language, advising student research projects and graded assignments.
+
+**Teaching Assistant** - PPOL 210: Introduction to Public Policy. (Jan. 2021-May. 2021). Supported online distance education course, interacted with students in online forum, and graded assignments.
+
+**Teaching Assistant** - PPOL 307 Policy Analysis and Alternatives (Aug. 2020-Dec. 2020). Supported class discussions, interacted with students in online forum, and graded assignments.
 
 ## Awards
 
