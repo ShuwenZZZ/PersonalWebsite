@@ -4,16 +4,15 @@ title: "  "
 
 ## **Personal Info**
 
-::: columns
+::::::: columns
 ::: {.column width="40%"}
-![](Image/profile photo.jpeg){width="400"}
+![](Image/profile%20photo.jpeg){width="400"}
 :::
 
 ::: {.column width="5%"}
-
 :::
 
-::: {.column width="55%"}
+:::: {.column width="55%"}
 #### **Shuwen Zhang**
 
 <div>
@@ -29,14 +28,22 @@ University of Illinois Chicago
 szhan47\@uic.edu
 
 </div>
-:::
-:::
+::::
+:::::::
 
 \
 
 ## **Highlights**
 
 ### <i class="bi bi-megaphone"></i> New Publication
+
+\
+
+![](Image/padm%20cover.jpg){fig-align="center" width="250"}
+
+\
+
+This study examines how the structure of contractual networks influences the design of interlocal agreements. Findings show that higher levels of social capital are associated with less formal contracts, highlighting the interplay between formal and relational mechanisms in public service management. Now published on Public Administration \[[Check it out here!](https://doi.org/10.1111/padm.13050)\]
 
 \
 
